@@ -1,5 +1,7 @@
 # Password-Generator
+
 ## Description
+
 A program that prompts the user for input in order to create a unique, randomly generated password.
 
 User will be required to press the "Generate Password" button and then answer a series of prompts that will dictate the length and characters included in their newly generated password.
@@ -33,9 +35,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## License
 
-```
 Refer to the license in the repository.
-```
 
 ## Deployment
 
