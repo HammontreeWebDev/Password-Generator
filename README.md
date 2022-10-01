@@ -46,3 +46,4 @@ https://visag3.github.io/Password-Generator/
 ```
 Image of deployed application:
 ```
+<img width="1728" alt="Deployed-Application" src="https://user-images.githubusercontent.com/113649683/193378830-c0fa71e6-4ac1-448a-8447-05f43b282a11.png">
