@@ -2,6 +2,7 @@
 var generateBtn = document.querySelector("#generate");
 
 // Globally Define the characters to be used in the generate password function
+// will use charAt method
 var charUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var charLower = "abcdefghijklmnopqrstuvwxyz";
 var charNumbers = "0123456789";
@@ -104,6 +105,7 @@ function generatePassword() {
         return;
     }
     // set up for loop to randomly pick characters based on user input
+    // use charAt method to select characters within var char strings
     var userChoice = "";
     for (var i = 0; i < askLength; i++) {
         userChoice += charSet.charAt(Math.floor(Math.random() * charSet.length));
